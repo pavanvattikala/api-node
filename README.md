@@ -15,6 +15,11 @@ Go to the project directory
 ```bash
   cd api-demo
 ```
+create env
+
+```bash
+  cp .env.example .env
+```
 
 Install dependencies
 
